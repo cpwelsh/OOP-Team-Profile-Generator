@@ -1,0 +1,12 @@
+header {
+    background-color: red;
+    color: antiquewhite;
+    text-align: center;
+    
+}
+
+.card {
+    display: flex;
+    padding: 10px;
+}
+

@@ -1,0 +1,25 @@
+{
+  "name": "oop-team-profile-generator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpwelsh/OOP-Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpwelsh/OOP-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/cpwelsh/OOP-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
